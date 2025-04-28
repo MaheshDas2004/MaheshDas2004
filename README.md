@@ -39,27 +39,6 @@ const mahesh = {
   <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
 </div>
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MaheshDas2004&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MaheshDas2004&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
-## 🗂️ Featured Projects
-
-<div align="center">
-  <a href="https://github.com/MaheshDas2004/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project1&theme=tokyonight" alt="Project 1" />
-  </a>
-  <a href="https://github.com/MaheshDas2004/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project2&theme=tokyonight" alt="Project 2" />
-  </a>
-</div>
-
 ## 🚀 Current Goals
 
 - Master the MERN stack (MongoDB, Express, React, Node.js)
