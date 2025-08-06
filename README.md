@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D8FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Django+%7C+React+Expert;AI+%26+Web+Enthusiast)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D8FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Django+%7C+React+Learner;AI+%26+Web+Enthusiast)](https://git.io/typing-svg)
   
 </div>
 
@@ -17,7 +17,7 @@ const mahesh = {
     location: "Punjab, India",
     education: "B.Tech CSE @ LPU",
     expertise: ["Django", "React.js", "REST APIs", "AI Integration"],
-    currentlyLearning: ["Advanced Django", "React Native", "AI Agents"],
+    currentlyLearning: ["Advanced Django", "React JS", "AI Agents"],
     openToWork: true,
     
     getSkills() {
