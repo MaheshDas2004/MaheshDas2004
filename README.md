@@ -1,158 +1,108 @@
-# Hey there! 👋 I'm Mahesh Das
+# 👋 Hey, I'm Mahesh Das
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+Enthusiast;Django+Expert;Always+Learning!)](https://git.io/typing-svg)
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=MaheshDas2004&color=36BCF7&style=for-the-badge)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D8FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Django+%7C+React+Expert;AI+%26+Web+Enthusiast)](https://git.io/typing-svg)
   
 </div>
 
 ---
 
-## 🚀 About Me
+## 🎯 About Me
 
-```python
-class MaheshDas:
-    def __init__(self):
-        self.name = "Mahesh Das"
-        self.role = "Full Stack Developer"
-        self.education = "B.Tech CSE @ Lovely Professional University"
-        self.location = "Punjab, India"
-        self.current_focus = ["Django", "AI Integration", "Web Development"]
-        self.learning = ["REST APIs", "AI Agents", "Advanced Django"]
+```javascript
+const mahesh = {
+    name: "Mahesh Das",
+    role: "Full Stack Developer",
+    location: "Punjab, India",
+    education: "B.Tech CSE @ LPU",
+    expertise: ["Django", "React.js", "REST APIs", "AI Integration"],
+    currentlyLearning: ["Advanced Django", "React Native", "AI Agents"],
+    openToWork: true,
     
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing together! 🚀")
+    getSkills() {
+        return ["Problem Solving", "Team Collaboration", "Quick Learning"];
+    }
+};
 
-me = MaheshDas()
-me.say_hi()
+console.log("Welcome to my GitHub! 🚀");
 ```
 
 ---
 
-## 🛠️ Tech Arsenal
-
-### 💻 **Programming Languages**
-<p align="center">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-</p>
-
-### 🌐 **Web Technologies**
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-</p>
-
-### ⚙️ **Frameworks & Libraries**
-<p align="center">
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django_REST_Framework-ff1709?style=for-the-badge&logo=django&logoColor=white" />
-</p>
-
-### 🗄️ **Databases & Tools**
-<p align="center">
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-</p>
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-  
-  ![Mahesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaheshDas2004&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MaheshDas2004&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
-  
-</div>
-
-<div align="center">
-  
-  ![GitHub Streak](https://streak-stats.demolab.com/?user=MaheshDas2004&theme=radical&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FFA500&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=C9D1D9)
-  
-</div>
-
-<div align="center">
-  
-  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MaheshDas2004&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFA500&area=true&hide_border=true)
-  
-</div>
-
----
-
-## 🎯 What I'm Working On
-
-- 🔭 Building full-stack web applications with **Django**
-- 🌱 Exploring **AI integration** in web development
-- 👯 Looking to collaborate on **open source projects**
-- 💬 Ask me about **Django, PHP, or web development**
-- ⚡ Fun fact: I love turning ideas into interactive web experiences!
-
----
-
-## 🏆 Achievements & Certifications
-
-```yaml
-certifications:
-  - name: "Full Stack with Django & AI Agents"
-    provider: "The Angaar Batch"
-    year: "2025"
-    
-  - name: "Web Development Upskilling"
-    provider: "My Job Grow"
-    year: "2024"
-    
-  - name: "Responsive Web Design"
-    provider: "Free Code Camp"
-    year: "2023"
-```
-
----
-
-## 🔥 Skills Breakdown
+## ⚡ Tech Stack
 
 <div align="center">
 
-| **Category** | **Technologies** |
-|:---:|:---:|
-| **Backend** | Django, Django REST Framework, PHP |
-| **Frontend** | HTML5, CSS3, JavaScript, Tailwind CSS |
-| **Database** | MySQL |
-| **Languages** | Python, C/C++, Java, PHP |
-| **Tools** | Git, GitHub, VS Code |
-| **Soft Skills** | Time Management, Teamwork, Adaptability |
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+
+### Backend
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Django REST](https://img.shields.io/badge/Django_REST-ff1709?style=flat-square&logo=django&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+
+### Languages & Database
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 </div>
 
 ---
 
-## 📈 Coding Activity
+## 📊 GitHub Activity
 
-<!--START_SECTION:activity-->
-- 🔥 Currently mastering Django and AI integration
-- 💻 Building responsive web applications
-- 🚀 Contributing to open source projects
-- 📚 Learning new technologies daily
-<!--END_SECTION:activity-->
-
----
-
-## 🤝 Let's Connect!
+<div align="center">
+  
+  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MaheshDas2004&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=ffffff&area=true&hide_border=true)
+  
+</div>
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maheshii/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MaheshDas2004)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahesh.das2205@gmail.com)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MaheshDas2004&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MaheshDas2004&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🚀 What I Do
+
+- **🌐 Full Stack Development** - Building end-to-end web applications
+- **🤖 AI Integration** - Implementing AI features in web apps  
+- **📱 Responsive Design** - Creating mobile-first user experiences
+- **🔧 API Development** - Designing and building REST APIs
+- **💡 Problem Solving** - Turning complex ideas into simple solutions
+
+---
+
+## 🎓 Certifications
+
+**Full Stack with Django & AI Agents** - The Angaar Batch (2025)  
+**Web Development Upskilling** - My Job Grow (2024)  
+**Responsive Web Design** - Free Code Camp (2023)
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maheshii/)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mahesh.das2205@gmail.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/MaheshDas2004)
 
 </div>
 
@@ -160,19 +110,8 @@ certifications:
 
 <div align="center">
   
-  **💡 "Code is like humor. When you have to explain it, it's bad." – Cory House**
+**💻 "First, solve the problem. Then, write the code."**
   
-  ![Snake animation](https://github.com/MaheshDas2004/MaheshDas2004/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
-
----
-
-<div align="center">
-  
-  ### 🎨 **Thanks for visiting my profile!** 
-  **Feel free to explore my repositories and don't forget to ⭐ star the ones you like!**
-  
-  ![Visitor Count](https://profile-counter.glitch.me/MaheshDas2004/count.svg)
+⭐ **Feel free to explore my repositories and star the ones you find interesting!**
   
 </div>
