@@ -69,14 +69,21 @@ me.say_hi()
 
 <div align="center">
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MaheshDas2004&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaheshDas2004&layout=compact&langs_count=7&theme=tokyonight"/>
+  ![Mahesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaheshDas2004&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF)
+  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MaheshDas2004&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
   
 </div>
 
 <div align="center">
   
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MaheshDas2004&theme=tokyonight)
+  ![GitHub Streak](https://streak-stats.demolab.com/?user=MaheshDas2004&theme=radical&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FFA500&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=C9D1D9)
+  
+</div>
+
+<div align="center">
+  
+  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MaheshDas2004&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFA500&area=true&hide_border=true)
   
 </div>
 
