@@ -2,8 +2,7 @@
 
 <!-- HEADER -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey+👋+I'm+Mahesh+Das;Backend+Engineer+in+Progress;Building+Scalable+Systems" alt="Typing SVG" />
-
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey+👋+I'm+Mahesh+Das;Backend+Engineer+in+Progress;Building+Scalable+Systems" />
 <br/>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
