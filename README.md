@@ -1,7 +1,9 @@
 <div align="center">
 
-# Mahesh Das
-**`Backend Engineer · CSE @ LPU · Open to Opportunities`**
+<!-- HEADER -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey+👋+I'm+Mahesh+Das;Backend+Engineer+in+Progress;Building+Scalable+Systems" alt="Typing SVG" />
+
+<br/>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
@@ -18,9 +20,21 @@
 
 ---
 
-### 👋 About Me
+### 🧑‍💻 About Me
 
-Backend-focused developer who loves designing **clean APIs**, **efficient database schemas**, and **robust server-side systems**. Currently in my 3rd year of **B.Tech CSE at LPU** (CGPA: 8.17). I care about what happens under the hood — authentication flows, queue algorithms, real-time systems, and data models.
+Backend-focused developer who loves designing **clean APIs**, **efficient database schemas**, and **robust server-side systems**.
+Currently in 3rd year of **B.Tech CSE @ Lovely Professional University** (CGPA: 8.17).
+I care about what happens under the hood — authentication flows, queue algorithms, real-time systems & data models.
+
+```python
+class Mahesh:
+    name       = "Mahesh Das"
+    university = "Lovely Professional University"
+    cgpa       = 8.17
+    focus      = "Backend Development"
+    stack      = ["Python", "FastAPI", "Django", "Express.js", "PostgreSQL", "MongoDB"]
+    currently  = "Building and learning every day 🚀"
+```
 
 ---
 
@@ -28,40 +42,55 @@ Backend-focused developer who loves designing **clean APIs**, **efficient databa
 
 ```
 Languages   →  Python · JavaScript · C/C++
-Frameworks  →  FastAPI · Django · Express.js · Django REST Framework
+Frameworks  →  FastAPI · Django · Express.js · DRF
 Databases   →  PostgreSQL · MongoDB · MySQL
-Tools       →  Git · REST APIs · JWT Auth · Socket.io
+Tools       →  Git · REST APIs · JWT · Socket.io
 ```
 
 ---
 
-### 📊 At a Glance
+### 📊 Stats
 
-| 🗂 Backend Projects | 🎓 CGPA | 📜 Certifications | ⚙️ Frameworks |
-|:---:|:---:|:---:|:---:|
-| 3+ | 8.17 | 3 | 2+ |
+<div align="center">
+
+![Mahesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MaheshDas2004&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=7ee787)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaheshDas2004&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff)
+
+</div>
 
 ---
 
-### 🎓 Education & Training
+### 🎓 Education
 
-**Lovely Professional University**, Punjab  
-B.Tech — Computer Science & Engineering · 2023–Present · **CGPA: 8.17**
+| 🏛 Institution | 📚 Degree | 🏆 Result |
+|---|---|---|
+| Lovely Professional University | B.Tech CSE · 2023–Present | CGPA: 8.17 |
+| Vikash Residential School | Intermediate · PCM · 2021–2023 | 77% |
+| O.P. Jindal School | Matriculation · 2020–2021 | 93.8% |
 
-**The Angaar Batch** — Full Stack with Django & AI · Jun–Jul 2025  
-**My Job Grow** — Web Development Upskilling · Dec 2024  
-**freeCodeCamp** — Responsive Web Design · Nov 2023
+---
+
+### 📜 Certifications
+
+- 🟣 **Full Stack with Django & AI Agents** — The Angaar Batch *(Jul 2025)*
+- 🔵 **Web Development Upskilling** — My Job Grow *(Dec 2024)*
+- 🟢 **Responsive Web Design** — freeCodeCamp *(Nov 2023)*
 
 ---
 
 ### 🔗 Connect
 
-[![GitHub](https://img.shields.io/badge/GitHub-MaheshDas2004-181717?style=flat-square&logo=github)](https://github.com/MaheshDas2004)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-maheshii-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/maheshii)
-[![Email](https://img.shields.io/badge/Email-mahesh.das2205%40gmail.com-EA4335?style=flat-square&logo=gmail)](mailto:mahesh.das2205@gmail.com)
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-MaheshDas2004-181717?style=for-the-badge&logo=github)](https://github.com/MaheshDas2004)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-maheshii-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/maheshii)
+[![Email](https://img.shields.io/badge/Email-mahesh.das2205%40gmail.com-EA4335?style=for-the-badge&logo=gmail)](mailto:mahesh.das2205@gmail.com)
+
+</div>
 
 ---
 
 <div align="center">
-  <sub><i>building scalable backends, one endpoint at a time 🚀</i></sub>
+  <sub><i>// building scalable backends, one endpoint at a time 🚀</i></sub>
 </div>
