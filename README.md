@@ -13,7 +13,9 @@ const mahesh = {
     role: "Backend Developer",
     location: "Punjab, India",
     focus: ["Scalable Systems", "API Design", "Performance Optimization"],
-    tech: ["Node.js", "Express", "Java", "MongoDB", "MySQL"],
+    programming languages: ["Python", "C/C++", "Javascript"],
+    Frameworks & Libraries: ["React.js", "Express.js", "Django", "FastAPI"],
+    Database: ["MySQL", "Mongodb", "PostgreSQL"],
     mindset: "Solve real-world problems with clean architecture"
 };
 ```
