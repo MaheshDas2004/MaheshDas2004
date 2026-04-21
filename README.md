@@ -1,84 +1,67 @@
+<div align="center">
+
 # Mahesh Das
-### Backend Engineer in Progress | CSE @ LPU
+**`Backend Engineer · CSE @ LPU · Open to Opportunities`**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-FF6C37?style=flat&logo=postman&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-0C4B33?style=flat-square&logo=django&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000?style=flat-square&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
----
-
-**Backend developer** focused on building scalable APIs, efficient database schemas, and robust server-side systems.
-Currently pursuing **B.Tech in CSE @ Lovely Professional University** (CGPA: 8.17). I enjoy designing systems that are
-clean under the hood — whether it's a priority queue engine or a real-time messaging backend.
-
----
-
-## 🔧 Tech Stack
-
-| Category | Tools |
-|---|---|
-| Languages | Python · JavaScript · C/C++ |
-| Frameworks | FastAPI · Django · Express.js · Django REST Framework |
-| Databases | PostgreSQL · MongoDB · MySQL |
-| Tools | Git · REST APIs · JWT Auth · Socket.io |
+</div>
 
 ---
 
-## ⚙️ Backend Projects
+### 👋 About Me
 
-### 🏥 Hospital Queue Optimization System
-> **Python · FastAPI · PostgreSQL**
-
-Role-based (Admin / Triage / Doctor) patient queue engine with a priority scoring mechanism using vitals, age & wait time.
-Handles the full lifecycle: registration → prioritization → status tracking (waiting / in-progress / completed).
+Backend-focused developer who loves designing **clean APIs**, **efficient database schemas**, and **robust server-side systems**. Currently in my 3rd year of **B.Tech CSE at LPU** (CGPA: 8.17). I care about what happens under the hood — authentication flows, queue algorithms, real-time systems, and data models.
 
 ---
 
-### 💼 Job Portal Backend
-> **Node.js · Express.js · MongoDB**
+### 🔧 Tech Stack
 
-Scalable REST API backend with JWT-based auth, role-based access for recruiters & candidates,
-real-time messaging via Socket.io, and a modular route architecture.
-
----
-
-### 📖 AI Story Generator API
-> **Django · Python · Google AI Studio**
-
-Django backend powering an AI-driven children's story app — secure user auth, story management dashboard,
-Google AI Studio integration, Text-to-Speech engine, and PDF export pipeline.
+```
+Languages   →  Python · JavaScript · C/C++
+Frameworks  →  FastAPI · Django · Express.js · Django REST Framework
+Databases   →  PostgreSQL · MongoDB · MySQL
+Tools       →  Git · REST APIs · JWT Auth · Socket.io
+```
 
 ---
 
-## 🎓 Education
+### 📊 At a Glance
 
-| Institution | Degree | Result |
-|---|---|---|
-| Lovely Professional University, Punjab | B.Tech — CSE · 2023–Present | CGPA: 8.17 |
-| Vikash Residential School, Odisha | Intermediate · PCM · 2021–2023 | 77% |
-| O.P. Jindal School, Chhattisgarh | Matriculation · 2020–2021 | 93.8% |
+| 🗂 Backend Projects | 🎓 CGPA | 📜 Certifications | ⚙️ Frameworks |
+|:---:|:---:|:---:|:---:|
+| 3+ | 8.17 | 3 | 2+ |
 
 ---
 
-## 📜 Certifications
+### 🎓 Education & Training
 
-- Full Stack with Django & AI Agents — **The Angaar Batch** (Jul 2025)
-- Web Development Upskilling — **My Job Grow** (Dec 2024)
-- Responsive Web Design — **freeCodeCamp** (Nov 2023)
+**Lovely Professional University**, Punjab  
+B.Tech — Computer Science & Engineering · 2023–Present · **CGPA: 8.17**
+
+**The Angaar Batch** — Full Stack with Django & AI · Jun–Jul 2025  
+**My Job Grow** — Web Development Upskilling · Dec 2024  
+**freeCodeCamp** — Responsive Web Design · Nov 2023
 
 ---
 
-## 🔗 Connect
+### 🔗 Connect
 
-[![GitHub](https://img.shields.io/badge/GitHub-MaheshDas2004-181717?style=flat&logo=github)](https://github.com/MaheshDas2004)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-maheshii-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/maheshii)
-[![Email](https://img.shields.io/badge/Email-mahesh.das2205@gmail.com-EA4335?style=flat&logo=gmail)](mailto:mahesh.das2205@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-MaheshDas2004-181717?style=flat-square&logo=github)](https://github.com/MaheshDas2004)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-maheshii-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/maheshii)
+[![Email](https://img.shields.io/badge/Email-mahesh.das2205%40gmail.com-EA4335?style=flat-square&logo=gmail)](mailto:mahesh.das2205@gmail.com)
 
 ---
 
 <div align="center">
-  <sub>// Always be building · Always be shipping</sub>
+  <sub><i>building scalable backends, one endpoint at a time 🚀</i></sub>
 </div>
