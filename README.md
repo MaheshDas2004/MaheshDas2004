@@ -1,17 +1,22 @@
-# 👋 Hey, I'm Mahesh
+# 👋 Hey, I'm Mahesh Das
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=2800&color=00C2FF&center=true&vCenter=true&width=600&lines=Backend+Developer;Building+Scalable+Systems;API+Design+%7C+Problem+Solving;Always+Learning+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2800&color=00C2FF&center=true&vCenter=true&width=600&lines=Backend+Developer;Building+Scalable+Systems;API+Design+%7C+Problem+Solving;Always+Learning+🚀" />
 </p>
 
 ---
 
 ## ⚡ About Me
 
-* Backend Developer focused on **scalable systems & clean architecture**
-* Strong interest in **API design, performance & system optimization**
-* I like building things that solve **real-world problems**
-* Always improving my **problem-solving & backend fundamentals**
+```javascript
+const mahesh = {
+    role: "Backend Developer",
+    location: "Punjab, India",
+    focus: ["Scalable Systems", "API Design", "Performance Optimization"],
+    tech: ["Node.js", "Express", "Java", "MongoDB", "MySQL"],
+    mindset: "Solve real-world problems with clean architecture"
+};
+```
 
 ---
 
@@ -35,15 +40,24 @@
 ## 📈 Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?MaheshDas2004=YOUR_USERNAME&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MaheshDas2004&theme=tokyo-night&hide_border=true" />
 </p>
+
+---
+
+## 🚀 What I Do
+
+* ⚙️ Design and build scalable backend systems
+* 🔌 Develop clean and efficient REST APIs
+* 📊 Optimize performance and data flow
+* 🧠 Strong focus on problem-solving & system thinking
 
 ---
 
 ## 🌐 Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/maheshii">
+  <a href="https://www.linkedin.com/in/maheshii/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/MaheshDas2004">
@@ -54,11 +68,13 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=MaheshDas2004&label=Profile+Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-## 💭
+<div align="center">
 
 > "Good backend is invisible. Great backend is unforgettable."
+
+</div>
